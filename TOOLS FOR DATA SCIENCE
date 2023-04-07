@@ -223,3 +223,96 @@ ANSWERS:
 
 
 
+
+
+FINAL EXAM - Graded Assignment • 36 min
+
+
+1. What does SQL stand for?
+Strong Query Language
+Structured Quick Language
+Structured Quadrant Language
+Structured Query Language
+
+2. Which of these is not a machine learning or deep learning library for Python?
+Kera
+Scikit-learn
+NumPy
+PyTorch
+
+3. What type of model would you use if you wanted to find the relationship between a set of variables?
+Classification model
+Regression model
+Clustering model
+
+4. What is data governance? 
+Deleting data stored within a central repository
+Storing data in a central repository
+An implementation of data processes and controls
+Creating processes and controls around the access of data
+
+5. When learning data science what open source tools are the most used?
+Spyder
+Notepad
+VSCode
+Jupyter Notebooks / JupyterLab
+RStudio
+
+6. Jupyter Notebooks is the tool most R developers use.
+No
+Yes
+
+7. Which of the following functions does RStudio provide?
+Creating relationships between data tables.
+Editing and execution of R code.
+Storing data in tables. 
+Documenting R code applications.
+
+8. Which of the following statements about Jupyter Notebook is correct?
+Jupyter Notebook supports the Visualization of data in charts.
+Jupyter Notebook is only available if installed locally on your computer.
+Jupyter Notebook provides storage of massive quantities of data in data lakes. 
+Jupyter Notebook is a commercial product of IBM.
+
+9. Which feature in Watson Studio helps to keep track of and discover relevant Machine Learning assets?
+
+Modeler Flows
+Watson Knowledge Catalog
+OpenScale
+AutoAI
+All of the above
+
+10. How does Data Refinery help build repeatable Data Pipelines for workloads of almost any size?
+Not supported.
+Feature is available only in the UI, not API.
+Manually write APIs to provide automation.
+Only a fixed workload size is supported.
+Create a scheduled Job and use a custom environment to run the data flow/pipeline on different workloads. 
+
+11. What type of node is used to prepare the data for modeling in Modeler flows?
+All of the above
+A type node
+Auto data prep node
+A modeling node
+A data source node
+
+12. What software package is used specifically to analyze data related to social sciences?
+Charts
+Modelers
+SPSS
+Graphical user interface
+
+ANSWERS:
+
+    A1. Structured Query Language
+    A2. NumPy
+    A3. Regression model
+    A4. Creating processes and controls around the access of data
+    A5. Jupyter Notebooks / JupyterLab, RStudio
+    A6. No
+    A7. Editing and execution of R code, Documenting R code applications.
+    A8. Jupyter Notebook supports the Visualization of data in charts.
+    A9. Watson Knowledge Catalog
+    A10. Create a scheduled Job and use a custom environment to run the data flow/pipeline on different workloads.
+    A11. All of the above
+    A12. SPSS
