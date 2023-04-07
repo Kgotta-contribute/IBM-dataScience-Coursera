@@ -1,3 +1,47 @@
+Week 4  : Practice Quiz - Jupyter Notebooks and Jupyter Lab
+
+1. What functionality is provided by the Jupyter Notebook file to Data Scientists?
+Allows to code in only one language
+Does not allow to share the file in any format
+Runs the code and generates the output in a separate file
+Allows to combine descriptive text, code blocks, and code output in a single file
+
+2. What is the purpose of the kernel in the Jupyter Notebook?
+Writes the code
+Translates the code to a different language
+Exports the code to a different file
+Executes the code
+
+3. What are the elements of Jupyter’s architecture?
+Kernel and client
+Server and client
+Two kernels and a server
+Two clients and a server
+
+4. What is the default kernel of JupyterLite?
+Julia
+Pyolite
+SQLite
+
+5. What is the purpose of Anaconda?
+Allows creating interactive visualizations
+Allows to install packages using a command line interface only
+Allows execution of code written in any language
+Allows to install new packages without using a command line interface
+
+
+
+ANSWERS:
+    A1. Allows to combine descriptive text, code blocks, and code output in a single file.
+    A2. Executes the code.
+    A3. Kernel and client.
+    A4. Pyolite.
+    A5. Allows to install new packages without using a command line interface.
+    
+    
+    
+    
+    
 WEEK  5   PRACTICE QUIZ - RStudio ANSWERS:
 
 1. Where can you type R commands in RStudio?</h2>
