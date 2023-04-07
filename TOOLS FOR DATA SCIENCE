@@ -26,7 +26,79 @@ git init
 
 
 
+GRADED QUIZ - RStudio & GitHUb                            (ANSWERS CAN BE FOUND AFTER THESE 10 QUESTIONS)
 
+1. Which of the following is True about R language .
+R is used for statistical inference and does not support visualization
+R functions require lots of coding compared to other Data science tools
+R requires installation of additional libraries to handle data analysis
+R supports importing of data from different sources like flat files, databases 
+
+2. Which R library is used for machine learning?
+stringr 
+ggplot
+dplyr
+caret 
+
+3. Which function in ggplot adds a title to the plot?
+geom point
+ggplot
+ggtitle
+library
+
+4. Which function is used to specify appropriate names for both axes in a plot?
+geom point 
+library
+ggplot
+xlab and ylab  
+
+5. What is a copy of a repository?
+Fork
+SSH protocol
+Pull request
+Working directory
+
+6. How does GitHub provide streamline testing and delivery?
+With merging
+With Built-in Continuous Integration (CI) and Continuous Delivery (CD)
+With reviewing and including comments 
+With branching 
+
+7. In GitHub, what is an organization?
+A collection of user accounts that owns repositories 
+A name you must specify for your repository
+The top level of a repository tree
+A path to the code files in a project
+
+8. On which tab in the Repository can you see all the source files?
+Code
+Projects
+Issues 
+Pull requests 
+
+9. How do you save changes in the Repository?
+Add file
+Create new file
+Commit changes 
+Save changes
+
+10. Which option enables you to add a file to the Repository from your local machine?
+Commit changes
+Create new file
+Upload files 
+New Repository
+
+ANSWERS:
+    A1. R supports importing of data from different sources like flat files, databases.
+    A2. caret.
+    A3. ggtitle.
+    A4. xlab and ylab.
+    A5. Fork.
+    A6. With Built-in Continuous Integration (CI) and Continuous Delivery (CD).
+    A7. A collection of user accounts that owns repositories.
+    A8. Code.
+    A9. Commit changes.
+    A10. Upload files.
 
 
 
