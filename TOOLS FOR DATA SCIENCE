@@ -1,3 +1,80 @@
+WEEK 4  : GRADED QUIZ - Jupyter Notebooks and Jupyter Lab
+
+1. In which formats can you share a notebook with other users?
+PDF
+ppt
+doc
+xls
+
+2. What is a feature of a JupyterLab?
+Is not an open source
+Allows access to a single Notebook
+Allows support of a single HTML file format
+Interactive control of the notebook cells and output
+
+3. Which option gives the output of the current highlighted code cell in Jupyter Notebook?
+Run-> Run Selected Cells
+Run -> Run All Cells
+Run -> Render All Markdown Cells
+
+4. How can you switch the kernel in the Jupyter Notebook?
+By clicking on Select Kernel at the top of the page
+By clicking the top left of the notebook
+By clicking on the Code option
+By clicking the top right of the notebook
+
+5. Where does the kernel display the output of the executed code?
+Notebook file
+Server
+Client Browser
+Exporter
+
+6. Which element of the Notebook architecture converts the file to other formats?
+Postprocessor
+Client Browser
+Exporter
+Preprocessor
+
+7. What is one of the features of JupyterLite?
+Requires a dedicated server
+Default kernel is SQLite
+It is not a static website
+Can create interactive graphics and visualizations
+
+8. What is one of the features of GoogleColab?
+You need to set up and install GoogleColab Jupyter notebooks
+GoogleColab Jupyter notebooks execute on a server
+GoogleColab projects are stored on the local machine
+You can clone GitHub projects and execute them in GoogleColab
+
+9. Which environment is used for creating and modifying Jupyter Notebooks on a local device?
+GoogleColab
+Python
+SQLite
+
+10. How can you execute Python code in Visual Studio code?
+By selecting Markdown from the drop-down menu
+By installing Python extensions
+By clicking on Download as
+By selecting Code from the drop-down menu
+
+The correct answers are:
+
+    A1. PDF, HTML
+    A2. Interactive control of the notebook cells and output
+    A3. Run -> Run Selected Cells
+    A4. By clicking on Select Kernel at the top of the page or by clicking the top right of the notebook and picking the kernel from the drop-down menu.
+    A5. Client Browser
+    A6. Exporter
+    A7. Can create interactive graphics and visualizations
+    A8. You can clone GitHub projects and execute them in GoogleColab
+    A9. JupyterLab, Visual Studio Code
+    A10. By installing Python extensions.
+
+
+
+
+
 Week 4  : Practice Quiz - Jupyter Notebooks and Jupyter Lab
 
 1. What functionality is provided by the Jupyter Notebook file to Data Scientists?
