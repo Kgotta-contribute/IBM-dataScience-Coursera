@@ -8,3 +8,25 @@ ANS: Plotly & ggplot
 
 3. Which is the command used to install packages in R?
 ANS: install.packages()
+
+
+
+WEEK  5   PRACTICE QUIZ - GitHub ANSWERS:
+
+1. Which term describes the folders set up for version control?
+Repository
+
+2. Which tab in your Repository enables a review of changes made before being merged into the main branch?
+Pull requests
+
+3. Which command is used to clone an existing repository?
+git init
+
+
+
+
+
+
+
+
+
