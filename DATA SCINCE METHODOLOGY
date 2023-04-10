@@ -2,6 +2,8 @@ WEEK 1 ->  Analytic Approach
 
 
 
+QUIZ 1 : PROBLEM TO APPROACH
+
 
 1. The first stage of the data science methodology is Data Understanding.
 True
@@ -34,8 +36,22 @@ The first stage of the data science methodology is Modeling.
 
 
 
+QUIZ 2 : REQUIREMENTS TO COLLECTION
 
 
+1.The Data Requirements stage of the data science methodology involves identifying the necessary data content, formats and sources for initial data collection.
+True
+False
 
+2. Database Administrators determine how to collect and prepare the data.
+True
+False
 
+3. In the Data Collection stage, the data requirements are revised and decisions are made as to whether or not more data is needed.
+True
+False
 
+ANSWERS: 
+  1. True
+  2. False
+  3. True
