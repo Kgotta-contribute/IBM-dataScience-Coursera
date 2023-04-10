@@ -206,3 +206,101 @@ track their spending and debt to ensure they are staying on track with their fin
 
 
 
+
+
+
+
+
+
+
+FINAL EXAM :
+
+
+1.The first state of the data science methodology is ___________________.
+Data Collection
+Modeling
+Business Understanding
+Data Understanding
+
+2.______________________ is an important stage in the data science methodology because it clearly defines the problem and the needs from a business perspective.
+Modeling
+Data Collection
+Data Understanding
+Business Understanding
+
+3.According to the videos, you can think of the _______________ and __________________ stages as a cooking task, where the problem at hand is a recipe, and the data to answer the question is the ingredients.
+Analytics; Business Requirements
+Data Requirements; Data Collecton
+Data Analysis; Presentation Requirements
+Business Requirements; Presentation Requirements
+
+4.In the Data Collection stage, techniques such as ___________ and visualization can be applied to the data set, to assess the content, quality, and initial insights about the data.
+Descriptive statistics
+The unsupervised method
+The supervised method
+Data manipulation
+
+5.A ______________ is used for predictive modeling.
+Technique set
+Training set
+Modeling set
+Analysis set
+
+6.A false-negative is what type of error?
+Type II error
+Type I error
+Type L error
+Type III error
+
+7.The Data Understanding stage refers to the stage of removing redundant data.
+True
+False
+
+8.Select the correct statement about the Data Preparation stage.
+The Data Preparation stage involves addressing missing values.
+The Data Preparation stage involves correcting invalid values and addressing outliers.
+The Data Preparation stage involves removing duplicate data. 
+The Data Preparation stage involves properly formatting the data.
+All of the above statements are correct.
+
+9.The final stages of the data science methodology are an iterative cycle between which of the different stages?
+Modelling, Evaluation, Data Understanding, Data Preparation, and Deployment.
+Modelling, Data Preparation, Deployment, and Feedback.
+Data Understanding, Data Preparation, Evaluation, and Modelling.
+Modelling, Evaluation, Deployment, and Feedback.
+
+10.Deploying a model into production represents the beginning of an iterative process from Feedback, then Model Refinement, and to what?
+Redeployment
+Data storage
+Scalability
+None of the above
+
+11. Select the correct sentence about the data science methodology as explained in the course.
+The data science methodology does not depend on a specific set of technologies or tools.
+The data science methodology always starts with Business Understanding.
+The data science methodology is an iterative process.
+All of the above
+
+12.Support vector machines and neural networks are what type of algorithms?
+Extraction
+Regression
+Classification
+Clustering
+
+
+
+ANSWERS:
+
+  Business Understanding
+  Business Understanding
+  Data Requirements; Data Collection
+  Descriptive statistics
+  Training set
+  Type II error
+  True
+  All of the above statements are correct.
+  Modelling, Evaluation, Data Understanding, Data Preparation, and Deployment.
+  Redeployment
+  The data science methodology always starts with Business Understanding.
+  Classification
+
