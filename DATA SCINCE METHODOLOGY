@@ -111,3 +111,98 @@ ANSWERS:
 
 
 
+
+
+
+
+QUIZ 3:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FINAL ASSIGNMENT
+
+In this Assignment, you will demonstrate your understanding of the data science methodology by 
+applying it to a given problem. Pick one of the following topics to apply the data science methodology to:
+
+    Emails
+
+    Hospitals
+
+    Credit Cards
+
+You will have to play the role of the client as well as the data scientist to come up with a problem that 
+is more specific but related to these topics.
+I will choose the topic of "Credit Cards" for this assignment.
+
+As a client, my problem is that I am experiencing high levels of credit card debt and would like to find a way 
+to manage my finances better. I would like to identify patterns in my spending and debt that can help me create a budget and pay off my debt faster.
+
+As a data scientist, I will follow the data science methodology to address this problem:
+
+Problem Understanding:
+The problem is that the client is experiencing high levels of credit card debt and wants to identify 
+patterns in their spending and debt to create a budget and pay off the debt faster.
+
+Data Collection:
+To address this problem, I will collect the following data:
+Credit card statements from the past 6 months
+Bank statements from the past 6 months
+Expense tracker data (if available)
+
+Data Preparation:
+After collecting the data, I will clean and transform it as follows:
+Convert all amounts to a common currency and remove any irrelevant columns
+Categorize expenses into different categories such as food, transportation, entertainment, etc.
+Calculate the total amount of debt and interest paid on the credit cards
+Merge the data into a single dataset for analysis
+
+Data Analysis:
+Using the prepared data, I will analyze the patterns in the client's spending and debt. Specifically, I will:
+Identify the top categories of expenses
+Calculate the debt-to-income ratio to determine the client's ability to pay off the debt
+Identify any recurring expenses that can be reduced or eliminated
+Identify any opportunities to consolidate debt or negotiate lower interest rates
+Create a budget and debt repayment plan based on the analysis
+
+Model Building:
+I will not build any models for this problem.
+
+Presentation and Visualization:
+I will present my findings to the client in a clear and concise manner, using visualizations such as graphs and 
+charts to illustrate the patterns and trends in their spending and debt. I will also provide recommendations on how 
+to create a budget and pay off the debt faster based on the analysis.
+
+Deployment:
+The client can implement the budget and debt repayment plan immediately after the presentation, and continue to 
+track their spending and debt to ensure they are staying on track with their financial goals.
+
+
+
+
+
+
