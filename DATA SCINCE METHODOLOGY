@@ -68,15 +68,31 @@ ANSWERS:
 WEEK 2 -> DATA UNDERSTANDING
 
 
-QUIZ 1 : 
+QUIZ 1 : From Understanding to Preparation
+
+1. In the case study, during the Data Understanding stage, data scientists discovered that not all the congestive heart failure admissions that were expected were being captured. What action did they take to resolve the issue? 
+The data scientists did not need to do anything. In this case, expectations for the data were incorrect.  
+The data scientists looped back to the Data Collection stage, adding secondary and tertiary diagnoses, and building a more comprehensive definition of congestive heart failure admission.
+The data scientists looped back to the Business Understanding stage to redefine the requirements.
+The data scientists added the missing data manually. 
+Building a data set is an iterative process. The methods for defining and collecting the data can be refined until all the required information is accurately captured, even if that means looping back to a previous stage in the model.
+
+2. During the Data Preparation stage, clients and stakeholders aggregate the data and merge them from different sources, enabling data scientists to use clean data in the analysis.
+True
+False
+
+3. Select the correct statement about the Data Preparation stage of the data science methodology.
+Data Preparation is typically the least time-consuming methodological step.
+Data Preparation involves dealing with missing improperly coded data and can include using text analysis to structure unstructured or semi-structured text data.
+Data Preparation cannot be accelerated through automation.
+None of the above statements are correct.
 
 
 
-
-
-
-
-
+ANSWERS:
+    1.  The data scientists looped back to the Data Collection stage, adding secondary and tertiary diagnoses, and building a more comprehensive definition of congestive heart failure admission.
+    2.  False
+    3.  Data Preparation involves dealing with missing improperly coded data and can include using text analysis to structure unstructured or semi-structured text data.
 
 
 
