@@ -78,3 +78,223 @@ ANSWERS:
 
 
 
+
+
+
+
+
+
+
+
+a=np.array([-1,1])
+b=np.array([1,1])
+np.dot(a,b)  WHats the output
+
+The output of the code np.dot(a,b) is:
+
+0
+
+The dot() function in NumPy performs a dot product of two arrays. For the given arrays a and b, the dot product is calculated as follows:
+
+css
+
+a[0]*b[0] + a[1]*b[1]
+= (-1*1) + (1*1)
+= -1 + 1
+= 0
+
+Therefore, the output of np.dot(a,b) is 0.
+daksh24kumar@gmail.com
+Tell value of Z after code run: 
+X=np.array([[1,0],[0,1]])
+Y=np.array([[0,1],[1,0]])
+Z=X+Y
+
+After running the given code:
+
+lua
+
+X = np.array([[1, 0], [0, 1]])
+Y = np.array([[0, 1], [1, 0]])
+Z = X + Y
+
+The value of Z would be:
+
+lua
+
+array([[1, 1],
+       [1, 1]])
+
+Here, X and Y are two 2x2 matrices. When we add two matrices in NumPy, the corresponding elements of the matrices are added together. Therefore, the resulting matrix Z will have elements equal to the sum of the corresponding elements of X and Y.
+
+In this case, the first element of X is 1 and the corresponding element of Y is 0, so the first element of Z will be 1+0=1. Similarly, the second element of X is 0 and the corresponding element of Y is 1, so the second element of Z will be 0+1=1. Likewise, the third and fourth elements of Z will be equal to 1+1=2. Since all the elements of Z are integers, the resulting matrix will have integer values.
+daksh24kumar@gmail.com
+
+X=np.array([[1,0,1],[2,2,2]]) 
+out=X[0:2,2]
+out
+What values does the variable  out take if the following lines of code are run?
+
+After running the given code:
+
+lua
+
+X = np.array([[1, 0, 1], [2, 2, 2]])
+out = X[0:2, 2]
+
+The variable out will contain a NumPy array with the values:
+
+scss
+
+array([1, 2])
+
+Here, X is a 2x3 NumPy array. The expression X[0:2, 2] extracts the elements from the first two rows and the third column of X. Specifically, X[0:2, 2] selects the elements in rows 0 and 1 (the first two rows) and column 2 (the third column) of X. This results in a 1-dimensional NumPy array with the values 1 and 2, which are the elements in the selected rows and column of X.
+daksh24kumar@gmail.com
+
+X=np.array([[1,0],[0,1]])
+Y=np.array([[2,2],[2,2]])
+Z=np.dot(X,Y)
+What is the value of  Z after the following code is run?
+
+After running the given code:
+
+lua
+
+X = np.array([[1, 0], [0, 1]])
+Y = np.array([[2, 2], [2, 2]])
+Z = np.dot(X, Y)
+
+The value of Z would be:
+
+lua
+
+array([[2, 2],
+       [2, 2]])
+
+Here, X and Y are two 2x2 matrices. The dot() function in NumPy performs matrix multiplication of the two input matrices. When we multiply matrix X by matrix Y, the result will be a new matrix Z, where each element of Z is the sum of the products of the corresponding elements of a row in X and a column in Y.
+
+In this case, the first row of X is [1, 0] and the first column of Y is [2, 2]. Therefore, the first element of the resulting matrix Z will be 1*2 + 0*2 = 2. Similarly, the second element of the first row of Z will be 1*2 + 0*2 = 2. Likewise, the third and fourth elements of Z will be equal to 0*2 + 1*2 = 2. Since all the elements of Z are integers, the resulting matrix will have integer values.
+daksh24kumar@gmail.com
+Consider the following text file:  Example1.txt:
+
+This is line 1
+
+This is line 2
+
+This is line 3
+
+What is the output of the following lines of code?
+with open("Example1.txt","r") as File1:
+
+    file_stuff=File1.readline ()
+
+    print(file_stuff)
+
+After running the given code:
+
+python
+
+with open("Example1.txt", "r") as File1:
+    file_stuff = File1.readline()
+    print(file_stuff)
+
+The output will be:
+
+arduino
+
+This is line 1
+
+Here, we are opening a file named "Example1.txt" in read-only mode using the open() function and assigning it to the variable File1. Then, we are using the readline() method to read the first line of the file and assigning it to the variable file_stuff. Finally, we are printing the value of file_stuff, which is the first line of the file.
+
+Since the readline() method only reads one line at a time, it will read the first line of the file on the first call. Therefore, the output will be the first line of the file, which is "This is line 1".
+daksh24kumar@gmail.com
+
+with open(example1,"r") as file1:
+What mode is the file object in?
+
+The code with open(example1,"r") as file1: is incomplete because the example1 variable is not defined, so it would raise a NameError.
+
+However, assuming that example1 is a string variable containing the name of a file, when we use the open() function in the "r" mode, it means that we are opening the file in "read-only" mode. This means that we can only read the contents of the file and not modify it.
+
+Therefore, the file object file1 that is created using the open() function in "r" mode is in read-only mode. This means we can only read the contents of the file, but not write or modify it.
+daksh24kumar@gmail.com
+WHat this code does: 
+with open("Example.txt","a") as writefile:
+  
+  writefile.write("This is line A\n")
+  writefile.write("This is line B\n")
+
+The given code opens a file named "Example.txt" in append mode using the open() function and assigns it to the variable writefile. Then, it writes the strings "This is line A\n" and "This is line B\n" to the file using the write() method of the file object.
+
+When we open a file in "append" mode using "a" as the mode parameter, it means that we can write data to the file, but the existing data in the file is not overwritten. Instead, the new data is appended to the end of the existing data.
+
+So, the first call to writefile.write("This is line A\n") writes the string "This is line A" to the end of the file. The second call to writefile.write("This is line B\n") appends the string "This is line B" to the end of the file after "This is line A".
+
+After the two calls to writefile.write(), the file "Example.txt" will contain the following two lines of text:
+
+arduino
+
+This is line A
+This is line B
+
+daksh24kumar@gmail.com
+
+with open('Example2.txt','r') as readfile:
+    with open('Example3.txt','w') as writefile:
+          for line in readfile:
+                writefile.write(line)
+Check the mode of the open function for each file object.
+
+Print out the content of Example2.txt.
+
+Copy the text from Example2.txt to Example3.txt.
+
+Based on the given code:
+
+    Example2.txt file is opened in read mode, using the "r" mode, and the file object is named readfile.
+    Example3.txt file is opened in write mode, using the "w" mode, and the file object is named writefile.
+    The content of Example2.txt is read line by line using a for loop, and each line is written to Example3.txt using the write() method of the writefile object.
+
+Therefore, the mode of the readfile object is "r" for read mode, and the mode of the writefile object is "w" for write mode.
+
+To print out the content of Example2.txt, we can add the following code before the nested with statement:
+
+python
+
+with open('Example2.txt','r') as readfile:
+    content = readfile.read()
+    print(content)
+    
+    with open('Example3.txt','w') as writefile:
+          for line in readfile:
+                writefile.write(line)
+
+This will open Example2.txt in read mode, read the entire content of the file using the read() method, and store it in the content variable. Then, it will print the content of the file to the console.
+
+To copy the text from Example2.txt to Example3.txt, we can use the nested with statement that is already provided in the given code. When the for loop iterates over each line in readfile, it writes the line to writefile using the write() method. Therefore, the content of Example2.txt is copied to Example3.txt line by line.
+daksh24kumar@gmail.com
+Consider the dataframe df. How would you access the element in the 1st row 3rd column
+1 point
+
+df.iloc[2,0]
+
+df.iloc[1,3]
+
+df.iloc[0,2]
+
+To access the element in the 1st row 3rd column of a DataFrame using integer-based indexing, we can use df.iloc[0,2].
+
+Here, iloc stands for "integer location" and is used to access the DataFrame using integer-based indexing. The first argument 0 represents the index of the row we want to access (since indexing starts from 0), and the second argument 2 represents the index of the column we want to access. Therefore, df.iloc[0,2] accesses the element in the first row (index 0) and the third column (index 2) of the DataFrame df.
+
+
+
+
+
+
+
+
+
+
+
+
+
