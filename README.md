@@ -2,6 +2,61 @@
 <p>This is your Github Repository for reference, useful if you are enrolled in IBM DATA SCIENCE PROFESSIONAL COURSE on coursera!! Have a great time!!!
 </p>
 
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/5.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/6.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/7.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/8.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/9.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/10.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/11.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/12.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/13.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/14.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/15.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/16.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/17.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/18.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/1.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/2.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/3.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+<br>
+<img src="https://github.com/Kgotta-contribute/IBM-dataScience-Coursera/blob/main/IMAGES/4.png?raw=true" alt="Image Description" style="margin-right: 150px;">
+</br>
+
 <h2>TABLES CONTENT:</h2> 
 
 <h3>1. What is Data Science? </h3>
